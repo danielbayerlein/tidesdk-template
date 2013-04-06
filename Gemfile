@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-ruby '2.0.0'
-
 gem 'guard', '~> 1.7.0'
 gem 'guard-haml', '~> 0.4'
 gem 'guard-sass', '~> 1.0.4'
