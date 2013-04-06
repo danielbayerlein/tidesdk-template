@@ -1,0 +1,21 @@
+#appname:tidesdk-template
+#appid:com.example.tidesdk_template
+#publisher:Example
+#image:default_app_logo.png
+#url:http://www.example.com
+#guid:f8bb07b6-09ca-4eba-8e70-ed3f7f4acb98
+#desc:No description provided
+#type:desktop
+runtime:1.3.1-beta
+app:1.3.1-beta
+codec:1.3.1-beta
+database:1.3.1-beta
+filesystem:1.3.1-beta
+media:1.3.1-beta
+monkey:1.3.1-beta
+network:1.3.1-beta
+platform:1.3.1-beta
+process:1.3.1-beta
+ui:1.3.1-beta
+worker:1.3.1-beta
+ruby:1.3.1-beta
