@@ -4,9 +4,8 @@
 guard 'coffeescript', input: 'source/javascripts',
                       output: 'Resources/javascripts'
 
-guard 'sass', input: 'source/stylesheets',
-              output: 'Resources/stylesheets'
+guard 'sass', input: 'source/stylesheets', output: 'Resources/stylesheets'
 
-guard 'haml', output: 'Resources', input: 'source' do
+guard 'haml', input: 'source', output: 'Resources' do
   watch %r{^source/.+(\.html\.haml)}
 end
