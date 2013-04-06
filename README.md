@@ -23,7 +23,7 @@ A base [TideSDK](http://www.tidesdk.org) application template with:
    $ bundle
    ```
 
-3. Update the `tiapp.xml` or with TideSDK Developer the following points:
+3. Update the following points with TideSDK Developer:
 
    `Application ID`, `Version`, `Description`, `Publisher`, `Publisher URL`,
    `Application Icon`, `Copyright`
