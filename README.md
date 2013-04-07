@@ -11,11 +11,8 @@ A base [TideSDK](http://www.tidesdk.org) application template with:
 
 ## Installation
 
-1. Download
-   [TideSDK 1.3.1 beta](https://github.com/downloads/TideSDK/TideSDK/TideSDK-1.3.1-beta-osx-x86-64.zip)
-   and
-   [TideSDK Developer](https://github.com/downloads/TideSDK/TideSDK/TideSDK-Developer-1.4.2-osx-x86-64.dmg)
-   from the [website](http://www.tidesdk.org).
+1. Download TideSDK 1.3.1 beta and TideSDK Developer
+   [website](http://www.tidesdk.org).
 
 2. Install the gems:
 
