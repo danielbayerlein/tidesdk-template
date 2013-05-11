@@ -7,4 +7,4 @@ gem 'guard-coffeescript', '~> 1.3.0'
 
 gem 'coffee-script', '~> 2.2.0'
 gem 'haml', '~> 4.0.2'
-gem 'sass', '~> 3.2.8'
+gem 'sass', '~> 3.2.9'
