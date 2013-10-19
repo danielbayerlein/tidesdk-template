@@ -47,7 +47,7 @@ A base [TideSDK](http://www.tidesdk.org) application template with:
 1. Launch [Guard](https://github.com/guard/guard) inside your project with:
 
    ```bash
-   $ guard
+   $ bundle exec guard
    ```
 
    Guard shows a Pry console. Run all plugins using:
