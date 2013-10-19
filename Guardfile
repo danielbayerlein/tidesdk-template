@@ -8,6 +8,4 @@ guard 'coffeescript', input: 'source/javascripts',
 guard 'sass', input: 'source/stylesheets', output: 'Resources/stylesheets'
 
 guard 'haml', input: 'source', output: 'Resources',
-              haml_options: { format: :html5 } do
-  watch %r{^source/.+(\.html\.haml)}
-end
+              haml_options: { format: :html5 }
