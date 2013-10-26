@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'guard', '~> 2.1.0'
+gem 'guard', '~> 2.2.2'
 gem 'guard-haml', '~> 1.1.0'
 gem 'guard-sass', '~> 1.3.2'
 gem 'guard-coffeescript', '~> 1.3.4'
