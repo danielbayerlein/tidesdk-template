@@ -7,7 +7,7 @@
 <publisher>Example</publisher>
 <url>http://www.example.com</url>
 <icon>default_app_logo.png</icon>
-<copyright>2014 by Example</copyright>
+<copyright>2016 by Example</copyright>
 <!-- Window Definition - these values can be edited -->
 <window>
 <id>initial</id>
