@@ -1,10 +1,14 @@
+# No Maintenance Intended
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+This project is no longer actively maintained. TideSDK is dead.
+
 # TideSDK Template
 
-[![Dependency Status](https://gemnasium.com/danielbayerlein/tidesdk-template.png)](https://gemnasium.com/danielbayerlein/tidesdk-template)
+A base TideSDK application template with:
 
-A base [TideSDK](http://www.tidesdk.org) application template with:
-
-* [TideSDK](https://github.com/TideSDK/TideSDK) 1.3.1 beta
+* TideSDK 1.3.1 beta
 * [Ruby](http://www.ruby-lang.org/)
 * [Haml](http://haml.info)
 * [Sass](http://sass-lang.com)
